@@ -1,5 +1,2 @@
-bash
-CopyEdit
-#!/bin/bash
-ls
+#!/bin/bash ls
 
