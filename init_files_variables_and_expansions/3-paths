@@ -1,0 +1,3 @@
+#!/bin/bash
+# Expand PATH, replace colons with newlines, and count lines
+echo $PATH | tr ':' '\n' | wc -l
