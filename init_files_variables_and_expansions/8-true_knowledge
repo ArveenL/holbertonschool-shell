@@ -1,2 +1,5 @@
 #!/bin/bash
-echo $((128 + TRUEKNOWTRUEKNOWLEDGE))
+# prints the result of 128 + $TRUEKNOWLEDGE
+
+echo $((128 + TRUEKNOWLEDGE))
+
